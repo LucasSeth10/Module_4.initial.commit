@@ -1,0 +1,9 @@
+.col-sm{
+    text-align: center;
+    border: 2px solid purple;
+}
+
+.col {
+    text-align: center;
+    border: 2px solid red;
+}
